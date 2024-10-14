@@ -1,0 +1,14 @@
+/Users/gunessumre/RiderProjects/UmreGunes/MetotUygulama/MetotUygulama/bin/Debug/net9.0/MetotUygulama
+/Users/gunessumre/RiderProjects/UmreGunes/MetotUygulama/MetotUygulama/bin/Debug/net9.0/MetotUygulama.deps.json
+/Users/gunessumre/RiderProjects/UmreGunes/MetotUygulama/MetotUygulama/bin/Debug/net9.0/MetotUygulama.runtimeconfig.json
+/Users/gunessumre/RiderProjects/UmreGunes/MetotUygulama/MetotUygulama/bin/Debug/net9.0/MetotUygulama.dll
+/Users/gunessumre/RiderProjects/UmreGunes/MetotUygulama/MetotUygulama/bin/Debug/net9.0/MetotUygulama.pdb
+/Users/gunessumre/RiderProjects/UmreGunes/MetotUygulama/MetotUygulama/obj/Debug/net9.0/MetotUygulama.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gunessumre/RiderProjects/UmreGunes/MetotUygulama/MetotUygulama/obj/Debug/net9.0/MetotUygulama.AssemblyInfoInputs.cache
+/Users/gunessumre/RiderProjects/UmreGunes/MetotUygulama/MetotUygulama/obj/Debug/net9.0/MetotUygulama.AssemblyInfo.cs
+/Users/gunessumre/RiderProjects/UmreGunes/MetotUygulama/MetotUygulama/obj/Debug/net9.0/MetotUygulama.csproj.CoreCompileInputs.cache
+/Users/gunessumre/RiderProjects/UmreGunes/MetotUygulama/MetotUygulama/obj/Debug/net9.0/MetotUygulama.dll
+/Users/gunessumre/RiderProjects/UmreGunes/MetotUygulama/MetotUygulama/obj/Debug/net9.0/refint/MetotUygulama.dll
+/Users/gunessumre/RiderProjects/UmreGunes/MetotUygulama/MetotUygulama/obj/Debug/net9.0/MetotUygulama.pdb
+/Users/gunessumre/RiderProjects/UmreGunes/MetotUygulama/MetotUygulama/obj/Debug/net9.0/MetotUygulama.genruntimeconfig.cache
+/Users/gunessumre/RiderProjects/UmreGunes/MetotUygulama/MetotUygulama/obj/Debug/net9.0/ref/MetotUygulama.dll
